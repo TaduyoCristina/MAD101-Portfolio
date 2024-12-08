@@ -1,2 +1,3 @@
 # MAD101-Portfolio
-MyApp
+
+This is my portfolio for chapter 4 to 8 
